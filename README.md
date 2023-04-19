@@ -1,4 +1,3 @@
-<img align="center" src="https://i.imgur.com/ODsKy2i.png">
 <h4 align="center">📱 My web site</h4>
 
 <hr>
